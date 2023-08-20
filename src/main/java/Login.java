@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-// JFrame class is used to make a frame
+// ////JFrame class is used to make a frame
 // action listener works whenever the button is clicked
 public class Login extends JFrame implements ActionListener {
 
